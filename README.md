@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Salmi 👋
 
-<!--
-**salmiesunny/salmiesunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**IT Infrastructure & Network Operations Engineer** based in Sharjah, UAE
 
-Here are some ideas to get you started:
+I spent 4 years in a 24x7 NOC supporting large multi-site enterprise networks. I'm now building hands-on Azure, Windows Server and automation labs in public.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Sharjah, UAE · open to roles in Dubai and Sharjah · available immediately
+
+---
+
+## 🔧 What I work with
+
+**Networking:** Cisco · Fortinet · Wireless APs & WLC · VPN · Routing & Switching
+
+**Monitoring & ITSM:** SolarWinds · IBM Netcool · NetCloud · ServiceNow · Lansweeper
+
+**Cloud & Security:** Microsoft Azure · Microsoft Entra ID · Azure RBAC 
+
+**Learning now:** Windows Server · Active Directory · Hyper-V · Bicep · Python · SQL
+
+---
+
+## 🎓 Certifications
+
+- Cisco Certified Network Associate (**CCNA**)
+- Microsoft Certified: Azure Security Engineer Associate (**AZ-500**)
+- Microsoft Security, Compliance, and Identity Fundamentals (**SC-900**)
+
+---
+
+## 🚧 Currently building
+
+- **Azure admin labs**: VNets, NSGs, VMs, RBAC, monitoring and backup, with Bicep
+- **Windows Server & Active Directory labs** on Hyper-V
+
+---
+
+## 📫 Get in touch
+
+- LinkedIn: [linkedin.com/in/salmi-es](https://www.linkedin.com/in/salmi-es)
+- Email: salmiesunny@gmail.com
+
+---
+
+*Languages: English, Malayalam, Kannada, Tamil*
